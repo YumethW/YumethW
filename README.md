@@ -16,10 +16,6 @@
 
 ###
 
-<img align="left" height="150" src="https://media.giphy.com/media/3oeSB0gNfJBngpse3u/giphy.gif?cid=ecf05e477472470sxza1pwkwxsad5ows2qlunobytrnqfavm&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="12" />
