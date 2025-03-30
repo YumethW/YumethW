@@ -14,10 +14,6 @@
   <img src="https://streak-stats.demolab.com?user=YumethW&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="170" alt="streak graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YumethW&show_icons=true&theme=radical" height="170" alt="Yumeth's GitHub stats" />
-</div>
-
 ---
 
 ### Tech Stack
