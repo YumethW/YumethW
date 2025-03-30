@@ -76,6 +76,10 @@
 
 ---
 
+> [!IMPORTANT]
+> When deploying the backend through Azure, due to global AI restrictions, I am unable to get the Gemini API working with a free tier plan.
+> But the application should be working as intended in a local enviorement
+
 <div align="left">
   <h3>
     <a href="https://cook50-lac.vercel.app/">
