@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Yumeth</h1>
+<h1 align="center">Hey there, I'm Yumeth</h1>
 <h3 align="center">A Developer from Colombo, Sri Lanka 🇱🇰</h3>
 
 <p align="center">
