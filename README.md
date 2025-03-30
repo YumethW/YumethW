@@ -1,8 +1,11 @@
-<h1 align="center">Hey there, I'm Yumeth</h1>
-<h3 align="center">A Developer from Colombo, Sri Lanka 🇱🇰</h3>
+<h1 align="left">
+  <img src="https://yumethw.vercel.app/logo.svg" alt="YumethW portfolio" width="50" />
+  Hey there, I'm Yumeth
+</h1>
+<h3 align="left">A Developer from Colombo, Sri Lanka 🇱🇰</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YumethW&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YumethW&label=Profile%20views&color=red&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -16,17 +19,35 @@
 
 ---
 
+### Check out
+
+<div align="left">
+  <a href="https://muna-draws.vercel.app/">
+    <img src="https://ik.imagekit.io/gagnugj0fl/tr:h-100,w-100/Logo.svg" width="50" />
+  </a>
+  <a href="https://velori.vercel.app/">
+    <img src="https://velori.vercel.app/logo.svg" width="50" />
+  </a>
+</div>
+
+---
+
 ### Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=fff" alt="Expo React Native" />
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000?style=for-the-badge&logo=shadcnui&logoColor=fff" alt="Shadcn" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
