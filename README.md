@@ -22,12 +22,75 @@
 ### Check out
 
 <div align="left">
-  <a href="https://muna-draws.vercel.app/">
-    <img src="https://ik.imagekit.io/gagnugj0fl/tr:h-100,w-100/Logo.svg" width="50" />
-  </a>
-  <a href="https://velori.vercel.app/">
-    <img src="https://velori.vercel.app/logo.svg" width="50" />
-  </a>
+  <h3>
+    <a href="https://muna-draws.vercel.app/">
+      <img src="https://ik.imagekit.io/gagnugj0fl/tr:h-100,w-100/Logo.svg" width="50" />
+      Muna Draws
+    </a>
+  </h3>
+  
+  <p>Portfolio website for an artist and friend. Made using,</p>
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff" />
+</div>
+
+---
+
+<div align="left">
+  <h3>
+    <a href="https://velori.vercel.app/">
+      <img src="https://velori.vercel.app/logo.svg" width="50" />
+      Velori
+    </a>
+  </h3>
+  
+  <p>An AI voice assistant to help prepare for interviews. Made using,</p>
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" />
+</div>
+
+---
+
+<div align="left">
+  <h3>
+    <a href="https://quvo.vercel.app/">
+      <img src="https://quvo.vercel.app/logo.png" width="50" />
+      quvo
+    </a>
+  </h3>
+
+  <p>An AI note taking app, with note analysis. Made using,</p>
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff" />
+</div>
+
+---
+
+<div align="left">
+  <h3>
+    <a href="https://cook50-lac.vercel.app/">
+      <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFlXs14sNSHRw/profile-treasury-image-shrink_1280_1280/B4DZXX8EL2G8AQ-/0/1743084602909?e=1743926400&v=beta&t=yaPf8oOjDQ7LDOZb0Nwwp6vUDWYk0EQnwxKpLAbW9GA" width="50" />
+      Cook50
+    </a>
+  </h3>
+
+  <p>A mini AI recipe generating app. Made using,</p>
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" />
 </div>
 
 ---
