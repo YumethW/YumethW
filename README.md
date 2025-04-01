@@ -8,6 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=YumethW&label=Profile%20views&color=red&style=flat" alt="profile views" />
 </p>
 
+<p align="left">
+  Mobile & Web Developer | Mastering the art of breaking things gracefully | Still searching for the perfect bug-free code (there's no such thing)
+</p>
+
 ---
 
 ### GitHub Stats
