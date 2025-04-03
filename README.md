@@ -63,8 +63,8 @@
 
 <div align="left">
   <h3>
-    <a href="quvo-h5f5gubxdkdhetgq.southeastasia-01.azurewebsites.net">
-      <img src="quvo-h5f5gubxdkdhetgq.southeastasia-01.azurewebsites.net/logo.png" width="50" />
+    <a href="https://quvo-h5f5gubxdkdhetgq.southeastasia-01.azurewebsites.net">
+      <img src="https://quvo-h5f5gubxdkdhetgq.southeastasia-01.azurewebsites.net/logo.png" width="50" />
       QUVO
     </a>
   </h3>
