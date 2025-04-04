@@ -1,5 +1,7 @@
 <h1 align="left">
-  <img src="https://yumethw.vercel.app/logo.svg" alt="YumethW portfolio" width="50" />
+  <a href="https://yumethw.vercel.app/">
+    <img src="https://yumethw.vercel.app/logo.svg" alt="YumethW portfolio" width="50" />
+  </a>
   Hey there, I'm Yumeth
 </h1>
 <h3 align="left">A Developer from Colombo, Sri Lanka 🇱🇰</h3>
