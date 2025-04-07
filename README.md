@@ -109,7 +109,7 @@
 <div align="left">
   <h3>
     <a href="https://github.com/YumethW/Pixl">
-      <img src="https://media.licdn.com/dms/image/v2/D562DAQGFyw9J-KRygg/profile-treasury-image-shrink_800_800/B56ZXEkp1lHsAY-/0/1742759698187?e=1744632000&v=beta&t=eaOHZ8sUqb-bBxeA3idOv43-6QJWCt_S1bzqpKmTR8c" width="50" />
+      <img src="https://raw.githubusercontent.com/YumethW/Pixl/b9fca652b926436f0ececfe9b42375fa03f0b48e/assets/images/Pixl-Dark.svg" width="50" />
       Pixl
     </a>
   </h3>
