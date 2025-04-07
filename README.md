@@ -106,6 +106,24 @@
 
 ---
 
+<div align="left">
+  <h3>
+    <a href="https://quvo-h5f5gubxdkdhetgq.southeastasia-01.azurewebsites.net">
+      <img src="https://media.licdn.com/dms/image/v2/D562DAQGFyw9J-KRygg/profile-treasury-image-shrink_800_800/B56ZXEkp1lHsAY-/0/1742759698187?e=1744632000&v=beta&t=eaOHZ8sUqb-bBxeA3idOv43-6QJWCt_S1bzqpKmTR8c" width="50" />
+      Pixl
+    </a>
+  </h3>
+
+  <p>A mini movie/ TV series browsing app. Made using,</p>
+  <img src="https://img.shields.io/badge/Expo-000020?&logo=expo&logoColor=fff" alt="Expo React Native" />
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appwrite-FD366E?&logo=Appwrite&logoColor=FFFFFF" />
+</div>
+
+---
+
 ### Tech Stack
 
 <div align="center">
