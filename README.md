@@ -85,8 +85,7 @@
 ---
 
 > [!IMPORTANT]
-> When deploying the backend through Azure, due to global AI restrictions, I am unable to get the Gemini API working with a free tier plan.
-> But the application should be working as intended in a local enviorement
+> Due to global AI restrictions, Gemini API won't accept responses from COOK50's Gemini API.
 
 <div align="left">
   <h3>
