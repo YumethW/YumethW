@@ -91,7 +91,7 @@
 <div align="left">
   <h3>
     <a href="https://cook50-lac.vercel.app/">
-      <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFlXs14sNSHRw/profile-treasury-image-shrink_1280_1280/B4DZXX8EL2G8AQ-/0/1743084602909?e=1743926400&v=beta&t=yaPf8oOjDQ7LDOZb0Nwwp6vUDWYk0EQnwxKpLAbW9GA" width="50" />
+      <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFlXs14sNSHRw/profile-treasury-image-shrink_160_160/B4DZXX8EL2G8Ak-/0/1743084602909?e=1744624800&v=beta&t=SlRSz39b5reuJQ83cGTzlybi0DmXo4znRPVyA5-Ntbs" width="50" />
       Cook50
     </a>
   </h3>
