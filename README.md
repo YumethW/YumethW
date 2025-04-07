@@ -85,7 +85,7 @@
 ---
 
 > [!IMPORTANT]
-> Due to global AI restrictions, Gemini API won't accept responses from COOK50's Gemini API.
+> Due to global AI restrictions, Gemini API won't accept responses from COOK50's Gemini API :(
 
 <div align="left">
   <h3>
