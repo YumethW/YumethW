@@ -7,7 +7,7 @@
 <h3 align="left">A Developer from Colombo, Sri Lanka 🇱🇰</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YumethW&label=Profile%20views&color=red&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YumethW&label=Profile%20views&color=ef233c&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="left">
@@ -19,8 +19,8 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YumethW&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="170" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=YumethW&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="170" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YumethW&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="170" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=YumethW&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="170" alt="streak graph" />
 </div>
 
 ---
