@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=FFFFFF" alt="Vercel" />
 </div>
 
 ---
@@ -59,6 +60,7 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=FFFFFF" alt="Vercel" />
 </div>
 
 ---
@@ -102,6 +104,7 @@
   <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=FFFFFF" alt="Vercel" />
 </div>
 
 ---
