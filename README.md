@@ -35,7 +35,7 @@
     </a>
   </h3>
   
-  <p>Portfolio website for an artist and friend. Made using,</p>
+  <p>Portfolio website & CMS for an artist and friend. Made using,</p>
   <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
