@@ -105,6 +105,8 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=Vercel&logoColor=FFFFFF" alt="Vercel" />
+
+  <p>Check out the <a href="https://github.com/YumethW/cook50-backend">repo</a></p>
 </div>
 
 ---
