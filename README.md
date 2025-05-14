@@ -67,7 +67,7 @@
 
 <div align="left">
   <h3>
-    <a href="https://quvo-h5f5gubxdkdhetgq.southeastasia-01.azurewebsites.net">
+    <a href="https://quvo.vercel.app/">
       <img src="https://quvo-h5f5gubxdkdhetgq.southeastasia-01.azurewebsites.net/_next/image?url=%2Flogo.png&w=128&q=75" width="50" />
       QUVO
     </a>
