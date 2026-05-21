@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  Mobile/ Web Developer && Mastering the art of breaking things gracefully && Still searching for the perfect bug-free code (there's no such thing)
+  Some code was written.
 </p>
 
 ---
