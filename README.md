@@ -16,7 +16,7 @@
 
 ---
 
-### Tech Stack
+### Familiar with
 
 <div>
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white" alt="Azure" />
