@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  Some code was written.
+  An unfortunate amount of JavaScript.
 </p>
 
 ---
