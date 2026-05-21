@@ -4,7 +4,7 @@
   </a>
   Hey there, I'm Yumeth
 </h1>
-<h3 align="left">A Developer from Colombo, Sri Lanka 🇱🇰</h3>
+<h3 align="left">Developer from Colombo, Sri Lanka 🇱🇰</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=YumethW&label=Profile%20views&color=ef233c&style=for-the-badge" alt="profile views" />
